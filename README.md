@@ -34,3 +34,7 @@ Coded with Python
 
 ------------------------------------------------------------------------------------------------------------
 
+
+
+(You can check the source code by downloading minecraft_datapack_generator.zip in the release, unzipping it, and then checking minecraft_datapack_generator.py)
+
